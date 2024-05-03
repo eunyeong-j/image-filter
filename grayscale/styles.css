@@ -1,0 +1,9 @@
+#imageContainer {
+  margin-top: 20px;
+}
+
+#grayscaleImage {
+  image-rendering: pixelated;
+  min-width: 1000px;
+  min-height: 1000px;
+}
